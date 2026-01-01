@@ -1,0 +1,1 @@
+# These are my notes and solutions to Introduction to Statistical Learning by Hastie
